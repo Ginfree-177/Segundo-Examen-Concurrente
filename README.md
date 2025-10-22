@@ -1,2 +1,3 @@
 # Segundo-Examen-Concurrente
-Se realizará el segundo ejercicio del segundo examen de la materia de Programación Concurrente y Paralela
+Se realizará el segundo ejercicio del segundo examen de la materia de Programación Concurrente y Paralela, el cual consiste en: 
+Hay tres personas sentadas alrededor de una mesa. Cada una tiene una pila de papel impreso. El comportamiento de cada persona consiste en colocar un papel en la mesa y esperar a que una cuarta persona tome los papeles y los engrape para nuevamente repetir el proceso. La persona que engrapa los papeles deberá esperar a que haya 3 papeles en la mesa para poder engraparlos. Implemente una solución paralela en c++ usando wait, notify y synchronized con monitores.
